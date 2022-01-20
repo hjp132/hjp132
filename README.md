@@ -1,11 +1,11 @@
 ### Howdy, I am Harry. 👋
 
 
-## I'm student, junior developer and big nerd!
+## I'm student and junior developer.
 
 - 🔭 I am a degree apprentice at ARU
-- 🌱 I’m currently learning everything I can 🤣
-- 🥅 2021 Goals: To be more productive
+- 🌱 I’m currently learning everything I can
+- 🥅 2022 Goals: To be more productive
 - 🧗 When I'm not working I love to climb
 
 ### Connect with me:
