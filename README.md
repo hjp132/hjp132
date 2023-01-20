@@ -1,12 +1,8 @@
 ### Howdy, I am Harry. 👋
 
 
-## I'm student and junior developer.
-
-- 🔭 I am a degree apprentice at ARU
-- 🌱 I’m currently learning everything I can
-- 🥅 2022 Goals: To be more productive
-- 🧗 When I'm not working I love to climb
+## I'm student and developer.
+- 🥅 <strike>2020</strike> <strike>2021</strike> <strike>2022</strike> <strike>2023</strike> Goal: To be more productive
 
 ### Connect with me:
 [<img align="left" alt="Harry | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
